@@ -1,4 +1,4 @@
-[(https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)]
+[!(https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)]
 
 <h1 align="center">Hi 👋, I'm Vijay</h1>
 <h3 align="center">A passionate Full Stack Developer from India. I am having a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development ( HTML5, CSS3, Javascript, Responsive), database(PHP,MongoDB,Mysql)</h3>
