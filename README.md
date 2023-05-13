@@ -30,7 +30,7 @@ Edureka Internship<br>Full Stack Development Projects<br>Full Stack Development 
 [![](https://visitcount.itsvg.in/api?id=Vijay263601&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://bmc.link/vijay26360o) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/vijay26360o)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
