@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/8c5a6ae295d7b6e73adaa9ae68b3b8fd.gif">
 
-Edureka Internship<br>Full Stack Development Projects<br>Full Stack Development Certification Course Via Edureka<br>HTML5, CSS3, Bootstrap, JavaScript, PHP, MYSQL, JQuery, NodeJS, Python, Responsive Designs<br>vijay263601@gmail.com <br> Open Source Project On Dev Time Estimate <a href="https://bfsdffrontendvanillajsapril4th2023.vercel.app/"Click Here></a> <br> Collaborating With :- <a href="https://github.com/Jay-study-nildana"Vijayasimha BR></a> :- Freelance Coding Tutor, Former Microsoft MVP
+Edureka Internship<br>Full Stack Development Projects<br>Full Stack Development Certification Course Via Edureka<br>HTML5, CSS3, Bootstrap, JavaScript, PHP, MYSQL, JQuery, NodeJS, Python, Responsive Designs<br>vijay263601@gmail.com <br> Open Source Project On Dev Time Estimate :- https://bfsdffrontendvanillajsapril4th2023.vercel.app/" <br> Collaborating With :- Vijayasimha BR --  https://github.com/Jay-study-nildana  :- Freelance Coding Tutor, Former Microsoft MVP
 
 
 ## 🌐 Socials:
