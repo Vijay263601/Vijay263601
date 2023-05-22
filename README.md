@@ -8,13 +8,10 @@
 # 💫 About Me:
 <h3 align="center">A passionate Web Developer / Full Stack Developer from India. Having wide range of skill sets including HTML5, CSS3, Bootstrap, JavaScript, PHP, MYSQL, JQuery, NodeJS, Python, Responsive Designs</h3>
 
-
-
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Vijay263601&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 🔭 I’m currently working on Full Stack Development Certification Course Via Edureka
 
