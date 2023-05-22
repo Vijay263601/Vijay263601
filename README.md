@@ -12,7 +12,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-
+---
+[![](https://visitcount.itsvg.in/api?id=Vijay263601&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 - 🔭 I’m currently working on Full Stack Development Certification Course Via Edureka
@@ -47,8 +48,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Vijay263601&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Vijay263601&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/vijay26360o)
