@@ -11,8 +11,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG]([https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif](https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG))">
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/TFPdmm3rdzeZ0kP3zG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="">via GIPHY</a></p>
+
 
 
 
