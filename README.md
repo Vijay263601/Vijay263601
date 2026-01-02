@@ -20,13 +20,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
 
-- 🔭 I’m currently working on Full Stack Development Certification Course Via Edureka
+- 🔭 I’m completed Full Stack Development Certification Course Via Edureka
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **freelancing**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
-
-- 👯 I’m currently collaborating to **Open Source Project On Dev Time Estimate :- https://bfsdffrontendvanillajsapril4th2023.vercel.app/ <br> Collaborating With :- Vijayasimha BR -- (https://github.com/Jay-study-nildana)   Freelance Coding Tutor, Former Microsoft MVP**
 
 - 🤝 I’m looking for help with **Full Stack Project**
 
