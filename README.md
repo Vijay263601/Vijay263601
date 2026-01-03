@@ -1,15 +1,13 @@
-<h1 align="center">
-  Hi 👋, I'm Vijay Singh Majila
-</h1>
-
+<!-- ===== TOP BANNER ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=900&color=00E6FF&center=true&vCenter=true&width=750&lines=Freelance+Full+Stack+Web+Developer;PHP+%7C+JavaScript+%7C+MySQL;Secure+Web+Apps+%26+Admin+Dashboards;Open+to+Remote+Freelance+Work" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Vijay%20Singh%20Majila&fontSize=42&fontAlignY=38&animation=twinkling" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
-</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=900&color=00E6FF&center=true&vCenter=true&width=800&lines=Freelance+Full+Stack+Web+Developer;PHP+%7C+JavaScript+%7C+MySQL;Secure+Web+Applications+%26+Admin+Dashboards;Open+to+Remote+Freelance+Work" />
+</h2>
 
+<!-- ===== BADGES ===== -->
 <p align="center">
   <a href="https://vijay263601.github.io/portfolio_vijay/">
     <img src="https://img.shields.io/badge/Portfolio-Live-00E6FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
@@ -27,10 +25,10 @@
 
 ---
 
-## 🚀 Featured Projects (Live & Real)
+## 🚀 FEATURED PROJECTS (REAL & LIVE)
 
 ### 🔐 TSR Exams – Secure Online Examination System
-> **Anti-cheating, admin-controlled, real-world exam platform**
+> **Anti-cheating | Admin Controlled | Production-level**
 
 - 🔒 Forced fullscreen with auto-submit on exit  
 - 🚫 Tab switch, refresh, copy-paste & ESC detection  
@@ -44,7 +42,7 @@
 ---
 
 ### 🛒 E-Commerce Web Application
-> **Business-ready e-commerce solution**
+> **Business-ready shopping platform**
 
 - Product listing & cart system  
 - Razorpay payment gateway integration  
@@ -68,22 +66,22 @@
 ---
 
 ### ✅ To-Do List Web App
-> **Clean & responsive productivity app**
+> **Clean productivity app**
 
 - Task add / delete / complete  
 - localStorage persistence  
-- Mobile-friendly UI  
+- Responsive UI  
 
 🔗 **GitHub:** https://github.com/Vijay263601/todo-app  
 
 ---
 
-## 🧠 About Me
+## 🧠 ABOUT ME
 
 I’m a **Freelance Full Stack Web Developer from India 🇮🇳**  
-focused on building **secure, scalable and real-world web applications**.
+focused on building **secure, scalable & real-world web applications**.
 
-💡 I specialize in:
+💡 Specialties:
 - Admin dashboards  
 - Online exam systems (anti-cheating logic)  
 - E-commerce platforms  
@@ -91,7 +89,7 @@ focused on building **secure, scalable and real-world web applications**.
 
 ---
 
-## 🛠️ Tech Stack (3D Badge Style)
+## 🛠️ TECH STACK (3D ICON STYLE)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,git,github,vscode,nodejs&theme=dark" />
@@ -99,23 +97,23 @@ focused on building **secure, scalable and real-world web applications**.
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GITHUB PERFORMANCE (FIXED & WORKING)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vijay263601&show_icons=true&theme=radical&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vijay263601&show_icons=true&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijay263601&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=Vijay263601&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay263601&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay263601&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 ---
 
-## 🤝 Open To
+## 🤝 OPEN TO
 
 - 💼 Freelance projects  
 - 🌍 Remote work  
@@ -126,7 +124,7 @@ focused on building **secure, scalable and real-world web applications**.
 
 ---
 
-## ☕ Support My Work
+## ☕ SUPPORT MY WORK
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/vijay26360o">
