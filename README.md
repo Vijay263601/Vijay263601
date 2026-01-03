@@ -1,19 +1,18 @@
-<!-- ===== TOP BANNER ===== -->
+<!-- ================= FULL BACKGROUND HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Vijay%20Singh%20Majila&fontSize=42&fontAlignY=38&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Vijay%20Singh%20Majila&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=900&color=00E6FF&center=true&vCenter=true&width=800&lines=Freelance+Full+Stack+Web+Developer;PHP+%7C+JavaScript+%7C+MySQL;Secure+Web+Applications+%26+Admin+Dashboards;Open+to+Remote+Freelance+Work" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=900&color=00FFD1&center=true&vCenter=true&width=820&lines=Freelance+Full+Stack+Web+Developer;PHP+%7C+JavaScript+%7C+MySQL;Secure+Web+Apps+%26+Admin+Dashboards;Open+to+Remote+Freelance+Work" />
 </h2>
 
-<!-- ===== BADGES ===== -->
 <p align="center">
   <a href="https://vijay263601.github.io/portfolio_vijay/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-00E6FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live-00FFD1?style=for-the-badge&logo=google-chrome&logoColor=black"/>
   </a>
   <a href="https://github.com/Vijay263601">
-    <img src="https://img.shields.io/badge/GitHub-Vijay263601-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Vijay263601-111?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/vijay-singh-majila-252429160/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
@@ -25,19 +24,19 @@
 
 ---
 
-## 🚀 FEATURED PROJECTS (REAL & LIVE)
+## 🚀 FEATURED PROJECTS
 
 ### 🔐 TSR Exams – Secure Online Examination System
-> **Anti-cheating | Admin Controlled | Production-level**
+> **Production-level | Anti-cheating | Admin Controlled**
 
-- 🔒 Forced fullscreen with auto-submit on exit  
+- 🔒 Forced fullscreen + auto-submit on exit  
 - 🚫 Tab switch, refresh, copy-paste & ESC detection  
 - 📝 Admin dashboard for exam & question management  
 - 📊 Automatic evaluation with Excel export  
 - 📱 Mobile & desktop responsive  
 
-🔗 **Live:** https://vijay263601.github.io/tsr_exams/  
-🔗 **GitHub:** https://github.com/Vijay263601/TSR_EXAMS  
+🔗 Live: https://vijay263601.github.io/tsr_exams/  
+🔗 GitHub: https://github.com/Vijay263601/TSR_EXAMS  
 
 ---
 
@@ -49,66 +48,48 @@
 - Admin dashboard for products & orders  
 - Fully responsive UI  
 
-🔗 **Live:** https://vijay263601.github.io/ecommerce-app/  
-🔗 **GitHub:** https://github.com/Vijay263601/ecommerce-app  
-
----
-
-### 🌐 Personal Portfolio Website
-> **SEO-optimized freelance portfolio**
-
-- Projects showcase & contact form  
-- Schema & Open Graph integration  
-- Deployed on GitHub Pages  
-
-🔗 **Live:** https://vijay263601.github.io/portfolio_vijay/  
-
----
-
-### ✅ To-Do List Web App
-> **Clean productivity app**
-
-- Task add / delete / complete  
-- localStorage persistence  
-- Responsive UI  
-
-🔗 **GitHub:** https://github.com/Vijay263601/todo-app  
+🔗 Live: https://vijay263601.github.io/ecommerce-app/  
+🔗 GitHub: https://github.com/Vijay263601/ecommerce-app  
 
 ---
 
 ## 🧠 ABOUT ME
 
-I’m a **Freelance Full Stack Web Developer from India 🇮🇳**  
-focused on building **secure, scalable & real-world web applications**.
+Freelance **Full Stack Web Developer from India 🇮🇳**  
+focused on **secure, scalable & real-world web applications**.
 
-💡 Specialties:
+**Specialties**
 - Admin dashboards  
 - Online exam systems (anti-cheating logic)  
 - E-commerce platforms  
-- Custom web solutions for startups & small businesses  
+- Custom solutions for startups & small businesses  
 
 ---
 
-## 🛠️ TECH STACK (3D ICON STYLE)
+<!-- ================= SECTION DIVIDER BACKGROUND ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=6" />
+</p>
+
+## 🛠️ TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,git,github,vscode,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📊 GITHUB PERFORMANCE (FIXED & WORKING)
+## 📊 GITHUB PERFORMANCE 
+
+> ⚠️ Note: Dynamic stats may occasionally fail on GitHub  
+> ✔ These are **most stable & safe versions**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vijay263601&show_icons=true&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vijay263601&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vijay263601&theme=radical&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay263601&layout=compact&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay263601&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -120,11 +101,9 @@ focused on building **secure, scalable & real-world web applications**.
 - 🧩 Open-source collaboration  
 - ⚙️ Full-stack development  
 
-📩 **Email:** vijay263601@gmail.com  
+📩 Email: **vijay263601@gmail.com**
 
 ---
-
-## ☕ SUPPORT MY WORK
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/vijay26360o">
@@ -134,4 +113,9 @@ focused on building **secure, scalable & real-world web applications**.
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Vijay263601&icon=5&color=12"/>
+</p>
+
+<!-- ================= FOOTER BACKGROUND ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=footer"/>
 </p>
