@@ -79,18 +79,28 @@ focused on **secure, scalable & real-world web applications**.
 
 ---
 
-## 📊 GITHUB PERFORMANCE 
-
-> ⚠️ Note: Dynamic stats may occasionally fail on GitHub  
-> ✔ These are **most stable & safe versions**
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vijay263601&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vijay263601&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay263601&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Vijay263601&theme=radical&hide_border=false" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay263601&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+
+---
+
+### ✍️ Random Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
 
 ---
 
